@@ -1,0 +1,25 @@
+.btnpricing {
+outline: none;
+padding-top: .251rem;
+padding-bottom: .251rem;
+padding-left: 1rem;
+padding-right: 1rem;
+color:#667eea;
+outline: none;
+}
+
+button.btnpricing:active,
+button.btnpricing:focus,
+button.btnpricing:target{
+    border: none;
+    background-color: #667eea;
+    outline: none;
+    color: white;
+}
+
+button.active{
+    border: none;
+    background-color: #667eea;
+    outline: none;
+    color: white;
+}
